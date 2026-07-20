@@ -1,4 +1,8 @@
 ### Smart Buy for You
+
+> [!NOTE]
+> This project is just getting started and is actively evolving! Features are being built daily. Follow us below to be the first to know when we launch our tracking data.
+
 🛒 Shop smarter, live better!
 
 Helping 🇦🇺 buy smart with better prices. 💸
@@ -17,4 +21,6 @@ We build data-driven tools to scrape, track, and analyze supermarket prices, hel
 ### 🌐 Connect With Us
 Stay updated with price details and let us know your thoughts:
 
-[![Instagram](https://shields.io)](https://instagram.com/smart.buy4u)
+<a href='https://instagram.com/smart.buy4u' target='_blank'>
+<img width='20' height='20' alt='Instagram_Glyph_Gradient' src='https://github.com/user-attachments/assets/a846284d-22f0-4cb7-9384-6281188fab08'/>
+</a>
