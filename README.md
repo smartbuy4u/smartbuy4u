@@ -21,22 +21,4 @@ We build data-driven tools to scrape, track, and analyze supermarket prices, hel
 ### 🌐 Connect With Us
 Stay updated with price details and let us know your thoughts:
 
-<a href='https://instagram.com/smart.buy4u' target='_blank'>
-<img width='20' height='20' alt='Instagram_Glyph_Gradient' src='https://github.com/user-attachments/assets/a846284d-22f0-4cb7-9384-6281188fab08'/>
-</a>
-
-<a href='https://threads.net/smart.buy4u' target='_blank'>
-<img width='20' height='20' alt='image' src='https://github.com/user-attachments/assets/3c313e18-c56f-415f-958b-772f9d6b7b53' />
-</a>
-
-<p>
-  <a href='https://instagram.com/smart.buy4u' target='_blank'>
-    <img width='20' height='20' alt='Instagram_Glyph_Gradient' src='https://github.com/user-attachments/assets/a846284d-22f0-4cb7-9384-6281188fab08'/>
-  </a>
-  
-  <a href='https://threads.net/smart.buy4u' target='_blank'>
-    <img width='20' height='20' alt='Threads_Logo' src='https://github.com/user-attachments/assets/3c313e18-c56f-415f-958b-772f9d6b7b53' />
-  </a>
-</p>
-
-<p><a href='https://instagram.com/smart.buy4u' target='_blank'><img width='20' height='20' alt='Instagram' src='https://github.com/user-attachments/assets/a846284d-22f0-4cb7-9384-6281188fab08'/></a>&nbsp;&nbsp;<a href='https://threads.net' target='_blank'><img width='20' height='20' alt='Threads' src='https://github.com/user-attachments/assets/3c313e18-c56f-415f-958b-772f9d6b7b53' /></a></p>
+<p><a href='https://instagram.com/smart.buy4u' target='_blank'><img width='20' height='20' alt='Instagram' src='https://github.com/user-attachments/assets/a846284d-22f0-4cb7-9384-6281188fab08'/></a>&nbsp;&nbsp;<a href='https://threads.net/smart.buy4u' target='_blank'><img width='20' height='20' alt='Threads' src='https://github.com/user-attachments/assets/3c313e18-c56f-415f-958b-772f9d6b7b53' /></a></p>
