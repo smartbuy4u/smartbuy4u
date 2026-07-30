@@ -15,7 +15,7 @@ Helping 🇦🇺 buy smart with better prices. 💸
 ### 🛠️ About the Project
 We build data-driven tools to scrape, track, and analyze supermarket prices, helping everyday shoppers beat inflation and save money.
 
-*   💻 **Tech Stack:** Python, Web Scraping, Data Analysis
+*   💻 **Tech Stack:** Python, Web Scraping, LLM (Gemini AI Studio), Data Analysis
 *   🎯 **Goal:** Price transparency for all major Australian retailers
 ---
 ### 🌐 Connect With Us
